@@ -1,0 +1,7 @@
+.venv/*
+database_admin/__pycache__/__init__.cpython-310.pyc
+database_admin/__pycache__/__init__.cpython-311.pyc
+database_admin/__pycache__/database_admin.cpython-311.pyc
+database_admin/__pycache__/database_admin.cpython-310.pyc
+__pycache__/ip_check.cpython-310.pyc
+__pycache__/ip_check.cpython-311.pyc
